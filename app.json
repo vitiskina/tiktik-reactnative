@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "mobile_ver",
-    "slug": "mobile_ver",
+    "slug": "mobile-ver",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,6 +26,7 @@
         "backgroundColor": "#FFFFFF"
       }
     },
+    
     "web": {
       "favicon": "./assets/favicon.png"
     }
